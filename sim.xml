@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+
+<simulation>
+	<parameters>
+	<threads>3</threads>
+	
+	<minSimTimeValue>0.0</minSimTimeValue>
+	<simTimeStep>3600</simTimeStep>
+	<simtimescale>1</simtimescale>
+	<simtimeratio>2</simtimeratio>
+	
+	<astronomicalyear>2014</astronomicalyear>
+	<astronomicalmonth>0</astronomicalmonth>
+	<astronomicaldaymonth>1</astronomicaldaymonth>
+	<astronomicalhour24>0</astronomicalhour24>
+	<astronomicalminute>0</astronomicalminute>
+	<astronomicalsecond>0</astronomicalsecond>
+	
+	<astronomicaltimestep>1000</astronomicaltimestep>
+	
+	<minsimpriority>0</minsimpriority>
+	<defaultsimpriority>5</defaultsimpriority>
+	<maxsimpriority>10</maxsimpriority>
+	
+	<stopsimpriority>10</stopsimpriority>
+	<pausesimpriority>10</pausesimpriority>
+	<savestatesimpriority>0</savestatesimpriority>
+	
+	
+	
+	<pausestarttime>0.0</pausestarttime>
+	<astronomicaltimecorrection>0.0</astronomicaltimecorrection>
+	
+	<simmode>0</simmode>
+	<simprocessstatus>0</simprocessstatus>	
+	
+	</parameters>
+
+</simulation>
